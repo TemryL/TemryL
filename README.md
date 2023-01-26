@@ -32,7 +32,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-<img style="float: left;" src="https://github-readme-stats-five-nu-72.vercel.app/api/top-langs?username=temryl&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&exclude_repo=HFI_DataVisualization,BeerVise" alt="temryl" />
+<img style="float: left;" src="https://github-readme-stats-five-nu-72.vercel.app/api/top-langs?username=temryl&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&exclude_repo=HFI_DataVisualization,BeerVise,MPC4Rocket" alt="temryl" />
 
 <img style="float: left;" src="https://github-readme-stats-five-nu-72.vercel.app/api?username=temryl&theme=tokyonight&show_icons=true&locale=en&count_private=true" alt="temryl" />
 
