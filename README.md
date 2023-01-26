@@ -34,6 +34,6 @@
 
 <img style="float: left;" src="https://github-readme-stats-five-nu-72.vercel.app/api/top-langs?username=temryl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="temryl" />
 
-<img align="left"  src="https://github-readme-stats-five-nu-72.vercel.app/api?username=temryl&theme=tokyonight&show_icons=true&locale=en" alt="temryl" />
+<img style="float: left;" src="https://github-readme-stats-five-nu-72.vercel.app/api?username=temryl&theme=tokyonight&show_icons=true&locale=en" alt="temryl" />
 
 <img style="float: left;" src="https://github-readme-streak-stats.herokuapp.com/?user=temryl&theme=tokyonight" alt="temryl" />
