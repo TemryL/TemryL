@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **tom.mery@epfl.ch**
 - 📄 Know about my experiences: [link_to_cv](link_to_cv)
-- ⚡ Fun fact: **This README.md is partially powered by AI.**
+- ⚡ Fun fact: **This README is partially powered by AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
