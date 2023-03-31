@@ -5,7 +5,7 @@
 <br>
 
 - 📫 How to reach me: **tom.mery@epfl.ch**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xuBwmhmxGJizCYDUidN-B2ndt8ahlX00/view?usp=share_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1JTFsfnfmC9QSp1BhJEmpUQX8RdwPFUAd/view?usp=share_link)
 - ⚡ Fun fact: **This README is partially powered by AI.**
 
 <h3 align="left">Connect with me:</h3>
