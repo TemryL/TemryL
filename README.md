@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">Open-minded Robotics MSc student with a passion for AI/ML and Data Science. <br> Ready to use my creativity and rigor to solve complex problems and make a positive impact.</h3>
 
 <br>
 
