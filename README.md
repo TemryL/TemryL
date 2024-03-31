@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 
 - 📫 How to reach me: **tom.mery@epfl.ch**
+- 🌐 My personal website: [here](https://tommery.vercel.app/)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lbo5ONM0_rKNoPJzMp_haoXUsq6eOOCL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
