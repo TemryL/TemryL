@@ -3,7 +3,7 @@
 <br>
 
 - 📫 How to reach me: **tom.mery@epfl.ch**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1r1iTj65besTytZtr6Mb2WjPcN1hLo87z/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lbo5ONM0_rKNoPJzMp_haoXUsq6eOOCL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
