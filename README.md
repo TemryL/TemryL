@@ -2,7 +2,7 @@
 
 - 🌐 My personal website: [Here](https://tommery.vercel.app/)
 - 📫 How to reach me: **tom.mery@epfl.ch**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lbo5ONM0_rKNoPJzMp_haoXUsq6eOOCL/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lbo5ONM0_rKNoPJzMp_haoXUsq6eOOCL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
